@@ -8,4 +8,4 @@ _In arte libertas_
 
 ![](00006.png?raw=true)
 
-![](assets/images/test.png)
+![](assets/images/test.txt)
