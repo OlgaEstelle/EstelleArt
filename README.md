@@ -6,4 +6,6 @@ _In arte libertas_
 
 ![](00004.png)
 
-![](0006.png?raw=true)
+![](00006.png?raw=true)
+
+![](assets/images/00006.png)
