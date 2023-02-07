@@ -4,4 +4,4 @@ Arts and inspiration for bright new world
 
 _In arte libertas_
 
-![](assets/images/00004.png)
+![](00004.png)
